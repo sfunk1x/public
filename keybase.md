@@ -1,5 +1,3 @@
-Please publicly post the following Gist, and name it keybase.md:
-
 ### Keybase proof
 
 I hereby claim:
